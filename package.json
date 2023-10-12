@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "John Smith"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/benkwan20/freecodecamp-learning-npm"
-	},
-	"author": "John Smith"
+	}
 }
